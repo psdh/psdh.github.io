@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly Report #01
+title: Weekly Report 1
 subtitle: document document and then document some more
 tags: [weeklyReports, 2019, life]
 ---

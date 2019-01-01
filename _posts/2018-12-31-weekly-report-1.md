@@ -33,7 +33,7 @@ format for these weekly reports in the future.
 I'm trying to get rid of my analysis paralysis, so bear with me
 and I shall improve in the future reports.
 
-*Learnings this week*
+**Learnings this week**
 
 [Tim feriss' podcast with Stripe's founder Patrick ](https://tim.blog/2018/12/20/patrick-collison/)
 A key takeway from this podcast for me was that I should be spending more

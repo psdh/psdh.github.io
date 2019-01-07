@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Weekly report 2
 subtitle: 'first week of the year; again off by one here :P'
 date: '2019-01-07'

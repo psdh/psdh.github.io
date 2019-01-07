@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ''
+title: Weekly report 2
 subtitle: 'first week of the year; again off by one here :P'
 date: '2019-01-07'
 tags:
@@ -51,6 +51,19 @@ I don't know if you can make out from my writing but I'm really excited about th
 
 Before this becomes ultra long, I'll jump to things that I read/heard this week and found valuable.
 
-Podcasts: David 'Merry christmas' Goggins is amazing. Heard his Joe rogan and rich roll podcast. Highly recommended.
+### Things I read/heard 
 
-Last week
+1. David 'Merry christmas' Goggins is amazing. Heard his Joe rogan and rich roll podcast. Highly recommended.
+2. Last week I realized that I don't try to learn from history at all. Started listening to the [Hardcore history podcast](https://www.dancarlin.com/hardcore-history-series/). Don't know if that'll help directly but I'm 40 minutes in and it's def very very fun :D.
+(a more detailed review next week maybe, also, the episode I started is 4.5+ hours 😱😱)
+3. https://guzey.com/personal/what-should-you-do-with-your-life/
+https://80000hours.org/career-guide/how-to-be-successful/
+https://drive.google.com/file/d/0B2PaeRjVqAN7MngxTXFPQkpLVjg/view
+Found all of them incredibly valuable
+4. I read the quote: `Writing is thinking` somewhere and it really stuck with me. It makes complete sense, I feel I think more about my week during this report (and my journaling sessions) than the rest of the week.
+This also reminds me why folks at Amazon used to value writing press release and FAQ (ah PRFAQs) for a product before they started working on it.
+
+Ah! this was fun. Hope you had some too :)
+
+See you next time
+

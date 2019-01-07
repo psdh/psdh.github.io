@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Prabhjyot Singh Sodhi
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm primarily a Software Developer and a Runner. 
 
-What else do you need?
+On this blog, I post weekly updates on where I am and what I am doing. (I'm not adding any more plans, because: http://www.itssarahrexford.com/blog//casey-neistat-action-and-intent)
 
-### my history
+I'm really big on personal improvement and growth so if you want to discuss anything, please hit me up on those little icons below!
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+See you around! :D

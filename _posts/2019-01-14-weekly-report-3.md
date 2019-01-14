@@ -42,6 +42,8 @@ Jumping to the **Things I heard/read**
 I am also halfway into a second episode by Hardcore history which is King of Kings (The assyrian empire). Coincidently, I had a look at a lot of artefacts from that era during my visit to the British Museum. Life is funny at times :)
 
 
-To be honest, I didn't really want to write this week's report. I was finding reasons to avoid writing this. I feel that I haven't done a great job with this report but I'm happy that I wrote it irrespectively. Done > Perfect!  ⚔️⚔️⚔️  
+To be honest, I didn't really want to write this week's report. I was finding reasons to avoid writing this. I feel that I haven't done a great job with this report but I'm happy that I wrote it irrespectively.
+
+Done > Perfect!  ⚔️⚔️⚔️  
 
 See ya later!

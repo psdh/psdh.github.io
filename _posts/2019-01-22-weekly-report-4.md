@@ -54,7 +54,7 @@ And here are the bloopers: :P
   frameborder="0" 
   width="400"     
   height="200"
-  src="https://drive.google.com/open?id=1XbPG0O5xkSzwOx_ESQUtDI3L76PXrJde">    
+  src="https://drive.google.com/file/d/1XbPG0O5xkSzwOx_ESQUtDI3L76PXrJde/view?usp=sharing">    
 </iframe>
 
 I think I was mostly listening to the Hardcore history podcast this week as well.

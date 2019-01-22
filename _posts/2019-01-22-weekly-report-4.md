@@ -19,7 +19,7 @@ Welcome to another one of my weekly reports. I've been really pumped in this las
 	* This btw includes both running and strength/yoga types drills that I copy from the Nike Training club application.
     * Couldn't recommend that app enough :)
     * Pain in knee socket doesn't seem around. Coconut oil FTW! I also slowed my workouts or focused on strength drills instead of runs. Believe that helped.
-* Believe I had a relatively succesful week at work. Closing down on an design problem. Would like to jump to and complete it's implementation before I start my training in mid-february.
+* Believe I had a relatively succesful week at work. Closing down on a design problem. Would like to jump to and complete it's implementation before I start my training in mid-february.
 * Got a couple of meditation sessions in.
 * Starting consuming [Huel](https://huel.com). Hoping that that'd save me some time and money once a week.
     

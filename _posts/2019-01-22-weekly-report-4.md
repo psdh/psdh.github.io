@@ -1,7 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: Weekly Report 4
+subtitle: ahhh. It's difficult to come up with these. No?
+date: '2019-01-21'
+tags:
+  - weeklyReports
+  - 2019
+  - life
 ---
 Wassup Wassup Wassup! 
 

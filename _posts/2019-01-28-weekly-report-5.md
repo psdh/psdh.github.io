@@ -16,7 +16,7 @@ This was a week full of learnings (bad week). Here's the summary
 
 ## What went well?
 * The early twenties podcast -- Episode 6 with Siddhant Bhardhwaj.
-	* [Gyani](https://gyani.net) and I did some basic stuff to setup https://earlytwenties.co . (looks similar? :P )
+	* [Gyani](https://gyani.net) and I did some basic stuff to setup [https://earlytwenties.co](https://earlytwenties.co) . (looks similar? :P )
 	* We tried a new format with a more conversational feel and less structure. The recording was really fun, the podcast... (listen and let me know? details below)
     * We also experimented with a appear.in + mic setup + individual audio streams for each of the speaker. It gave me a lot of flexibility while editing but was also a big pain. (It took me 8 hours to edit this thing, was during the night, so partly because of reduced focus)
 * Not the best week for my workouts. Was out with friends and got in only 3 days of workout. I'm still counting this as 
@@ -65,7 +65,7 @@ Here's the 6th episode of the podcast:
 	* Dan has been talking about the 'Cyrus the Great' and how Cyrus, his son (Cambyses) and Darius had this living-the-hard-life sort of approach. Where in they'd not recommend, **just** enjoying life with all that they could afford (as rulers of Persia).
 		* Dan constrasts this to Xerxes (son of Darius and grandson of Cyrus) who is described as someone tumbling down the staircase wearing silk slippers. Sort of shows how Xerxes got soft with the kind of things he was enjoying in his life. When he became king, he didn't have to spend time setting things up as Darius (his father) had been a great King and administrator and had expanded Persia's territory to modern day Pakistan.
     * If none of this made sense or if you think I misinterpreted something or I'm just plain vanilla wrong. You're probably right. But this is what I recollect from my interpretations. Feel free to comment :)
-* http://prose.io It's a tool which you can use to edit your github static websites. This is something I've been using to write these posts. I find it incredibly helpful.
+* [http://prose.io](http://prose.io) It's a tool which you can use to edit your github static websites. This is something I've been using to write these posts. I find it incredibly helpful.
 
 One final thing that I want to write about today is the following. A close friend told me today that I am never content. I'm struggling to identify if that's the case. I have to spend some time thinking about this and understanding if this is the case. Would love if anyone of you has any suggestions in this regard.
 

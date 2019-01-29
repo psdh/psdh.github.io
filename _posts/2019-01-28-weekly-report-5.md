@@ -48,7 +48,9 @@ In general, I'm seeing quite some repeat entries in my "what didn't go well" lis
 ``
 Most people fail in life not because they aim too high and miss, but because they aim too low and hit.
 ``
-I'm summary is getting longer and longer. Anyway...
+
+The summaries are getting longer and longer. Anyway...
+
 Here's the 6th episode of the podcast:
 
 <iframe src="https://anchor.fm/earlytwenties/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

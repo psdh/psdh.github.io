@@ -58,10 +58,10 @@ Here's the 6th episode of the podcast:
 * As mentioned previously, I'm listening to the book: 12 rules for life for Jordan Peterson. Too soon to comment anything.
 * I'm still a couple of hours away from completing the 5 hour podcast by Dan Carlin. The Battle of thermopylae is now over and Persia's decline has started.
 	* Dan talks about how a good metric to understand an empire's wellbeing is whether or not the empire is making territorial expansion. If the empire is taking acquiring more territories each passing day then it's prosperous, if it isn't, then it's declining. Dan explains how this has been empirically found true.
-      * I couldn't help but draw a comparison from this to our lives. If we aren't moving into uncomfortable zones (acquiring territory) then we are prosperous, else we are on the decline.
-      * Not sure about others, but I def think that I can relate to this.
-    * Dan has been talking about the 'Cyrus the Great' and how Cyrus, his son (Cambyses) and Darius had this living-the-hard-life sort of approach. Where in they'd not recommend, **just** enjoying life with all that they could afford (as rulers of Persia).
-    	* Dan constrasts this to Xerxes (son of Darius and grandson of Cyrus) who is described as someone tumbling down the staircase wearing silk slippers. Sort of shows how Xerxes got soft with the kind of things he was enjoying in his life. When he became king, he didn't have to spend time setting things up as Darius (his father) had been a great King and administrator and had expanded Persia's territory to modern day Pakistan.
+		* I couldn't help but draw a comparison from this to our lives. If we aren't moving into uncomfortable zones (acquiring territory) then we are prosperous, else we are on the decline.
+		* Not sure about others, but I def think that I can relate to this.
+	* Dan has been talking about the 'Cyrus the Great' and how Cyrus, his son (Cambyses) and Darius had this living-the-hard-life sort of approach. Where in they'd not recommend, **just** enjoying life with all that they could afford (as rulers of Persia).
+		* Dan constrasts this to Xerxes (son of Darius and grandson of Cyrus) who is described as someone tumbling down the staircase wearing silk slippers. Sort of shows how Xerxes got soft with the kind of things he was enjoying in his life. When he became king, he didn't have to spend time setting things up as Darius (his father) had been a great King and administrator and had expanded Persia's territory to modern day Pakistan.
     * If none of this made sense or if you think I misinterpreted something or I'm just plain vanilla wrong. You're probably right. But this is what I recollect from my interpretations. Feel free to comment :)
 * http://prose.io It's a tool which you can use to edit your github static websites. This is something I've been using to write these posts. I find it incredibly helpful.
 
@@ -72,10 +72,3 @@ Thanks for your time,
 Until next time,
 
 Sodhi
-
-
-
-
-
-
-

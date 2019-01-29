@@ -53,7 +53,7 @@ The summaries are getting longer and longer. Anyway...
 
 Here's the 6th episode of the podcast:
 
-<iframe src="https://anchor.fm/earlytwenties/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/earlytwenties/embed/episodes/Ep-6-Sid-ke-siddhanto-pe-charcha-e31pjm" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 
 ## Things I came across in Podcasts/Audiobooks/Books/Websites/...

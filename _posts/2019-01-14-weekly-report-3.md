@@ -8,6 +8,7 @@ tags:
   - life
 date: 14/01/2019
 subtitle: Another one goes by
+comments: true
 ---
 And there goes by another week.
 This one went by quick.

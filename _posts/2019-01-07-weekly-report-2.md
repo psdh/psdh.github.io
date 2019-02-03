@@ -8,6 +8,7 @@ tags:
   - weeklyReports
   - 2019
   - life
+comments: true
 ---
 Heya!
 
@@ -66,4 +67,3 @@ This also reminds me why folks at Amazon used to value writing press release and
 Ah! this was fun. Hope you had some too :)
 
 See you next time
-

@@ -2,7 +2,12 @@
 layout: post
 title: Weekly Report 1
 subtitle: document document and then document some more
-tags: [weeklyReports, 2019, life]
+tags:
+  - weeklyReports
+  - 2019
+  - life
+published: true
+comments: true
 ---
 
 Welcome to my website. I've known for a long time

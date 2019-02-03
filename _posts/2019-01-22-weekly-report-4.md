@@ -8,6 +8,7 @@ tags:
   - weeklyReports
   - 2019
   - life
+comments: true
 ---
 Wassup Wassup Wassup! 
 

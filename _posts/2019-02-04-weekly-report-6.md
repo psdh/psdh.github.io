@@ -63,7 +63,7 @@ To be honest, I write that primarily for me with a hope that someone else might 
 I think I'm consumed a lot of diverse content this week!
 
 * The Joe Rogan podcast with Jack Dorsey (Founder of Twitter & Square): Amazing Amazing podcast. Never knew about how Twitter developed and transformed massively before it became what it is today. Hashtags was a thing twitter users started using (without it actually being a thing) and then twitter developed around it to support hashtag searches, suggestions (and everything that it has today)
-* I heard a couple of podcasts by the
+* I heard a couple of podcasts on the [The Indie Hackers Podcast](https://www.indiehackers.com/podcast)
 	* [One was with the founders of Torch](https://www.indiehackers.com/podcast/076-keegan-and-cameron-of-torch) which is [company](https://torch.io/) that works to provide leadership coaching driven by data.
     * I heard [another podcast by the Joel Hooks](https://www.indiehackers.com/podcast/075-joel-hooks-of-egghead) (the founder of egghead.io). He has a slow by steady approach towards his company now that it was grown quite a lot (A bit similar to Basecamp in that regard). It provides a different perspective and is in general very inspiring towards doing something on your own.
 * I finally completed the 3 part podcast on the King of Kings by Dan Carlin and have now started the [6 hour podcast on](https://www.dancarlin.com/product/hardcore-history-59-the-destroyer-of-worlds/) modern day warfare and what could happen if we can't handle our own weaponry called **The Destroyer of Worlds** (But 6 hourss... I know)

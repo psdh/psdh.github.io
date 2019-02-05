@@ -15,7 +15,7 @@ Today I had planned to sleep by 11 pm and wake up tomorrow by 630-7. That clearl
 
 I just wasted some time trying to select a hostel for my Paris trip next week (more on that later), the fact that the wasted time must come out of my sleep makes me very sad. I think I'm in a very random rant mode right now, wishing to speak about the 10 things are making my life difficult but instead I am busy tilting my head 45 degrees upwards and yawning like a hippo. 👇
 
-<img src="img/yawning_hippo.jpg" alt="Me right now">
+<img src="/img/yawning_hippo.jpg" alt="Me right now">
 
 
 Eeemiway, (anyway*), nobody cares about this BS (,work harder)
@@ -90,7 +90,7 @@ Sodhi
 
 Oh and here's my London Winter 10K medal photo!!
 
-<img src="img/londonWinter10K.jpeg" alt="Me right now">
+<img src="/img/londonWinter10K.jpeg" alt="10K!!!">
 
 
 P.S.: If some reads this post and finds awful grammar plus stupid mistakes everywhere, pardon me. I'm sleepy :)

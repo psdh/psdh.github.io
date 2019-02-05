@@ -7,6 +7,8 @@ tags:
   - weeklyReports
   - 2019
   - life
+  - race
+  - 10K
 comments: true
 subtitle: 'Workouts, Office and No reading.... Wait, isn''t that each week ?'
 ---

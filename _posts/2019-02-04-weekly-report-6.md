@@ -66,13 +66,13 @@ I think I'm consumed a lot of diverse content this week!
 * I heard a couple of podcasts on the [The Indie Hackers Podcast](https://www.indiehackers.com/podcast)
 	* [One was with the founders of Torch](https://www.indiehackers.com/podcast/076-keegan-and-cameron-of-torch) which is [company](https://torch.io/) that works to provide leadership coaching driven by data.
     * I heard [another podcast by the Joel Hooks](https://www.indiehackers.com/podcast/075-joel-hooks-of-egghead) (the founder of egghead.io). He has a slow by steady approach towards his company now that it was grown quite a lot (A bit similar to Basecamp in that regard). It provides a different perspective and is in general very inspiring towards doing something on your own.
-* I finally completed the 3 part podcast on the King of Kings by Dan Carlin and have now started the [6 hour podcast on](https://www.dancarlin.com/product/hardcore-history-59-the-destroyer-of-worlds/) modern day warfare and what could happen if we can't handle our own weaponry called **The Destroyer of Worlds** (But 6 hourss... I know)
-* Finally, I also heard a couple of Tim feriss podcasts
+* Finally completed the 3 part podcast on the King of Kings by Dan Carlin and have now started the [6 hour podcast on](https://www.dancarlin.com/product/hardcore-history-59-the-destroyer-of-worlds/) modern day warfare and what could happen if we can't handle our own weaponry called **The Destroyer of Worlds** (But 6 hourss... I know)
+* Also heard a couple of Tim feriss podcasts
 	* One with [Ken Block](https://tim.blog/2019/01/31/ken-block-gymkhana/): Interesting and inspiring to hear about someone who started competing professionally in a sport at the age of 37. 
     * Another one with [Peter Mallouk](https://tim.blog/2019/01/17/peter-mallouk/), who is the President at a very large wealth management company. He mentioned quite a few things about getting perspective when we are stuck in this race for earning the most money that we can. Found that to be really insightful and something that I don't think about enough. The talk reminded me of, *Life is short and unpredictable, eat the desert first* :)
     
     
-This is what happens when you don't spend too much time on the HardCore history podcasts. They take up a lottt of time!
+This is what happens when you don't spend too much time on the HardCore history podcasts. You're able to free up space for multiple other podcasts. I'm pretty sure that I've heard more podcasts this week, but can't really recollect.
 
 There are a few meta things that I wanted to mention as well. I want to list the things that I'm struggling-with / wondering-about at the moment.
 1. Struggling with measuring things. How to quantify things like my happiness currently or my performance at work.

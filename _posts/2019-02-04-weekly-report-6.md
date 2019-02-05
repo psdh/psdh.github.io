@@ -23,9 +23,10 @@ I just wasted some time trying to select a hostel for my Paris trip next week (m
 Eeemiway, (anyway*), nobody cares about this BS (,work harder)
 Let's jump to the summary! 
 But first some meta things, I recently went through [all weekly reports posted by Preet Singh Khalsa](https://medium.com/retro-psk), a Pilani friend, I loved the simple tabular + color coded representation of his progress on his goals. I think it sums things very nicely. Apart from that,  I really liked reading his reports as well and recommend them. Fun and interesting guy :)
+I had wanted to copy his representation of his progress on his goals, but would start it from the next report. 
 
 ## What went well?
-* Workouts!!!
+* Workouts
 	* they went amazing I think. Got in around 23K in the week which included a 9K long run and the 10K on Sunday as part of the London Winter Run!
     * I clocked 66 minutes on the 10K with a 6:41 Pace. More on this later. (the MoreOnThis queue could overflow anytime)
     * The new gym is amazing. I did a strength workout on my legs after a long time. I enjoy these things so much (and I have enjoyed them for a long time now), I'm not sure why I leave them midway and miss out on the compounding effects. Back in Jan - May 2017, I had really started getting regular and starting enjoying my gym workouts but I just left things after that for no apparent reason.

@@ -61,7 +61,8 @@ Some Meta first: I'm not sure how many people read these reports and find anythi
 To be honest, I write that primarily for me with a hope that someone else might it helpful as well.
 
 I think I'm consumed a lot of diverse content this week!
-* The Joe Rogan podcast with Jack Dorsey (Founder of Twitter | Square): Amazing Amazing podcast. Never knew about how Twitter developed and transformed massively before it became what it is today. Hashtags was a thing twitter users started using (without it actually being a thing) and then twitter developed around it to support hashtag searches, suggestions (and everything that it has today)
+
+* The Joe Rogan podcast with Jack Dorsey (Founder of Twitter & Square): Amazing Amazing podcast. Never knew about how Twitter developed and transformed massively before it became what it is today. Hashtags was a thing twitter users started using (without it actually being a thing) and then twitter developed around it to support hashtag searches, suggestions (and everything that it has today)
 * I heard a couple of podcasts by the
 	* [One was with the founders of Torch](https://www.indiehackers.com/podcast/076-keegan-and-cameron-of-torch) which is [company](https://torch.io/) that works to provide leadership coaching driven by data.
     * I heard [another podcast by the Joel Hooks](https://www.indiehackers.com/podcast/075-joel-hooks-of-egghead) (the founder of egghead.io). He has a slow by steady approach towards his company now that it was grown quite a lot (A bit similar to Basecamp in that regard). It provides a different perspective and is in general very inspiring towards doing something on your own.
@@ -95,5 +96,5 @@ Oh and here's my London Winter 10K medal photo!!
 <img src="/img/londonWinter10K.jpeg" alt="10K!!!">
 
 
-P.S.: If some reads this post and finds awful grammar plus stupid mistakes everywhere, pardon me. I'm sleepy :)
+P.S.: If someone reads this post and finds awful grammar plus stupid mistakes everywhere, pardon me. I'm sleepy :)
 

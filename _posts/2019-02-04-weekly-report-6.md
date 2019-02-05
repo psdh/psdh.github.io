@@ -2,13 +2,13 @@
 layout: post
 published: true
 title: Weekly Report 6
-subtitle: Lot's of workouts
 date: '2019-02-04'
 tags:
   - weeklyReports
   - 2019
   - life
 comments: true
+subtitle: 'Workouts, Office and No reading.... Wait, isn''t that each week ?'
 ---
 Starting to write this very late on a Monday night.
 Today I had planned to sleep by 11 pm and wake up tomorrow by 630-7. That clearly didn't happen. Would try again tomorrow.

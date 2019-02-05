@@ -88,4 +88,10 @@ Go get some! :D
 
 Sodhi
 
+Oh and here's my medal photo!!
+
+<img src="londonWinter10K.jpeg" alt="Me right now">
+
+
 P.S.: If some reads this post and finds awful grammar plus stupid mistakes everywhere, pardon me. I'm sleepy :)
+

@@ -21,7 +21,9 @@ I just wasted some time trying to select a hostel for my Paris trip next week (m
 
 
 Eeemiway, (anyway*), nobody cares about this BS (,work harder)
+
 Let's jump to the summary! 
+
 But first some meta things, I recently went through [all weekly reports posted by Preet Singh Khalsa](https://medium.com/retro-psk), a Pilani friend, I loved the simple tabular + color coded representation of his progress on his goals. I think it sums things very nicely. Apart from that,  I really liked reading his reports as well and recommend them. Fun and interesting guy :)
 I had wanted to copy his representation of his progress on his goals, but would start it from the next report. 
 
@@ -98,4 +100,3 @@ Oh and here's my London Winter 10K medal photo!!
 
 
 P.S.: If someone reads this post and finds awful grammar plus stupid mistakes everywhere, pardon me. I'm sleepy :)
-

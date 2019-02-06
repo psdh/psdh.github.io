@@ -63,7 +63,7 @@ I have a lot of things that I want to talk about / mention in this weekly report
 Some Meta first: I'm not sure how many people read these reports and find anything helpful for their own lives. If you do find the "Podcasts/things I learn" section helpful, feel free to comment on how that could be made better.
 To be honest, I write that primarily for me with a hope that someone else might it helpful as well.
 
-I think I'm consumed a lot of diverse content this week!
+I think I've consumed a lot of diverse content this week!
 
 * The Joe Rogan podcast with Jack Dorsey (Founder of Twitter & Square): Amazing Amazing podcast. Never knew about how Twitter developed and transformed massively before it became what it is today. Hashtags was a thing twitter users started using (without it actually being a thing) and then twitter developed around it to support hashtag searches, suggestions (and everything that it has today)
 * I heard a couple of podcasts on the [The Indie Hackers Podcast](https://www.indiehackers.com/podcast)

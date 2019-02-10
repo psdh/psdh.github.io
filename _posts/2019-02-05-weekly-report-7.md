@@ -32,4 +32,9 @@ Also talk about being shy vs being an introvert. interesting idea!
 * Wednesday: Great day at work: 8/10, not so productive after work
 have just chilled
 
+* Thursday - Sunday: Paris trip!!
+
+Missed my weekly long run!
+Will do it tomorrow!
+
 Caffeine does wonders with me, I've known that and I must embrace it and use it to my advantage

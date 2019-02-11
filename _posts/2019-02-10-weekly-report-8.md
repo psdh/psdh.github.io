@@ -7,7 +7,9 @@ title: Weekly Report 8
 
 Workout planning
 
-Monday: Long run previous week: 12Km
+* Monday: Long run previous week: 12Km
+  * Long run done
+  * Left knee feeling weird after the run. Already feel better 30 minutes post the workout
 Tuesday: Bicep + Back
 Wednesday: Speed work! + abs
 Thursday: Leg day

@@ -2,6 +2,15 @@
 layout: post
 published: false
 title: 'Weekly Report 7 '
+tags:
+  - weeklyReports
+  - 2019
+  - life
+  - travel
+  - europe
+comments: true
+subtitle: this one seemed long
+date: '2019-02-11'
 ---
 ## Podcasts
 1. Completed the Susan Cain podcast with tim feriss: https://tim.blog/2019/01/24/susan-cain/

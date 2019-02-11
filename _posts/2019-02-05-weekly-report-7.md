@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Weekly Report 7: Feb 3rd to Feb 10th 2019'
 tags:
   - weeklyReports

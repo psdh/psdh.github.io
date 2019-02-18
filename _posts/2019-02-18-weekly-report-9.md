@@ -11,3 +11,13 @@ title: Weekly Report 9
     * training: first day: excited to meet new people and make friends
 
 
+
+Workout plan
+* Monday: Leg Day
+* Tuesday: Recovery: 7K + 30 minutes yoga
+* Wednesday: Chest, Shoulder and Triceps 
+* Thursday: Interval training + abs
+* Friday: Rest
+* Saturday: Long run
+* Sunday: Cycling session + Yoga 
+

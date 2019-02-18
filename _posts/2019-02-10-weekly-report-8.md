@@ -1,7 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: Weekly Report 8
+tags:
+  - weeklyReports
+  - 2019
+  - sick
+comments: true
+date: '2019-02-18'
+subtitle: Sick week ... literally
 ---
 Yo Yo Yo
 

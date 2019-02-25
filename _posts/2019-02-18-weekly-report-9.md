@@ -15,6 +15,7 @@ Summmaarryyy!
 
 ## What went well?
 * Workouts! Workouts! and Workouts!
+	* After the sick previous week, I was afraid of losing out on my schedule and am happy I came thru!
 	* got in 5 out of the 6 workouts that I had planned. Had to let go the speed workout :( 
     * With the 2 runs, got in 22Km in the week (15 + 7)
     	* the long run was amazing! Did it in Hyde park on a bright sunny afternoon on Saturday (had actually planned for 14K but 15K is what happened :) )

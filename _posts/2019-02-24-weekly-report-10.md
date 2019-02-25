@@ -14,6 +14,12 @@ Monday Rating: 8
 	* apart from that also got in a restorative yoga session
 * got chinese for dinner so that's not super good I guess
 
+
+Random Notes:
+* David goggins formulated concepts while he was runnign long distances
+* I should write a why I run post
+* why I run is because I can complete the entire cycle of aiming to achivement and going through pain in a rathoer short period of time
+
 Workout plan
 * Monday: Interval training + Yoga
 * Tuesday: Back and Bicep day
@@ -22,3 +28,20 @@ Workout plan
 * Friday: Rest day
 * Saturday: Long run: 17K
 * Sunday: Cycling session + Yoga
+
+
+
+
+```
+old week workout
+
+Workout plan
+* Monday: Leg Day
+* Tuesday: Recovery: 7K + 30 minutes yoga
+* Wednesday: Chest, Shoulder and Triceps 
+* Thursday: Interval training + abs
+* Friday: Rest
+* Saturday: Long run
+* Sunday: Cycling session + Yoga
+
+```

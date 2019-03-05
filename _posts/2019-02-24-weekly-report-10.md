@@ -1,7 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: Weekly Report 10
+subtitle: coming soon...
+date: '2019-03-05'
+tags:
+  - weeklyReports
+  - 2019
+comments: true
 ---
 Yo Yo Yo!
 

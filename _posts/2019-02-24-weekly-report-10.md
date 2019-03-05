@@ -7,6 +7,7 @@ date: '2019-03-05'
 tags:
   - weeklyReports
   - 2019
+  - bike
 comments: true
 ---
 Yo Yo Yo!

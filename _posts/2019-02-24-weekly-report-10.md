@@ -3,6 +3,37 @@ layout: post
 published: false
 title: Weekly Report 10
 ---
+Yo Yo Yo!
+
+Another week!...
+
+Uhh, its 1245 and I'm starting to write this now :(
+Well, Summary!
+
+## What went well?
+* The Early Twenties Podcast: 
+	* I personally loved recording the most recent episode. It was with Ramsri Goutham and we spoke about his journey from a cushy silicon valley job to moving to India to open his own company. I think I learnt a few things from him and his story.
+* Workouts!
+	* This was a *great* week for my workouts. I did 29.68K this week with a crazy 17K long run!
+    * I did miss a yoga workout on Sunday but it was the only missed workout and all in all I think I did great!
+    * Plan to use this momentum going for the coming week!
+* 
+
+Uhh :(
+
+I'm finding it too difficult to concentrate right now and I think trying to finish this right now will lead to a sleepy tomorrow.
+I'll continue typing this tommorow!
+
+Lots to write and think about :)
+btw, I'm getting a cycle!
+Excited :DD 
+More on this tomorrow
+
+
+
+
+P.S.: random notes during the week
+
 Planning this week's workout schedule!
 
 Monday Rating: 8
@@ -28,6 +59,7 @@ Workout plan
 * Friday: Rest day
 * Saturday: Long run: 17K
 * Sunday: Cycling session + Yoga
+
 
 
 

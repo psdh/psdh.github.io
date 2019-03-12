@@ -88,16 +88,22 @@ I want to get more done and do things that make me happy and make a difference i
 I also started working on this Alexa skill, Not much progress to talk about now, would have a longer update next week.
 
 Let me know,
+
 I shortened the summary sections a bit. Is that a good thing?
+
 I've no clue
+
 Must sleep tho (23:56 now)
+
 Have one last thing to do before I sleep and then 
+
 zzzzzz
 
 Naval Ravikant, the angellist guy also said another thing: **Happiness is when you're living in the present** like when you're meditating, when you're being in the present and spending time with your family/loved ones, when you're running!
 I guess that podcast invoked a lot of thoughts in me.
 
 Yeah so, zzzzzzz
+
 Sodhi!
 
 Keep hammering Macha!

@@ -1,7 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 title: Weekly Report 11
+subtitle: I got the cycle!!!
+date: '2019-03-11'
+tags:
+  - 2019 - life - focus - weeklyReports - bike
+comments: true
 ---
 Yo Yo Yo!
 

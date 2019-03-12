@@ -24,6 +24,8 @@ Before I start with the usual, I've thinking about a few things lately
     * Finally, I also think, that realizing this and keeping this in my head makes me a little bit humble (and given me, I'd take humble any day!)
 	* I read a post about productivity tips from 2007 on HN today and I was amazed to realize that when I was in class 7 at school, had just moved to Mumbai and was shy to even to people, someone out there was writing a blog post about productivity tips, the same thing that I'd start wondering about on atleast a weekly basis in only a few years time. We are all so different but we are all so similar, it's insane. (it might also be just me, if you're reading this and wondering what has gotten into me)
 	* if you're wondering what the productivity tips page was: [https://pmarchive.com/guide_to_personal_productivity.html](https://pmarchive.com/guide_to_personal_productivity.html)
+    
+    * this post refers to [http://www.structuredprocrastination.com/](http://www.structuredprocrastination.com/) which is even crazier because that website quotes someone thinking about this in 1949. Even philosophers (Aristotle and the likes) have been thinking about these topics since millenia. 
 
 2. Okay, that was long, I thought the post would be a shorter one. Want to sleep :( (it's 23:32 as of now)
 So, I've been thinking that there's a lot of distraction in my life. A tendency to check my phone every few minutes. I've realized that I'm *slow* in life. A friend jokes that whatever they say, I first disagree and then agree to after sometime. (It's only a joke and that friend is stupid :P )

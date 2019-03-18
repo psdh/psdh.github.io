@@ -1,7 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Weekly Report 12: 11th March to 17th March'
+tags:
+  - 2019
+  - life
+comments: true
+date: '2019-03-18'
+subtitle: No blabbering this week
 ---
 Yo Yo Yo!
 

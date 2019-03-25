@@ -4,6 +4,9 @@ published: true
 title: 'Weekly report 13: March 18th to March 24th 2019'
 subtitle: taking the weeks to make myself stronger!
 date: '2019-03-25'
+tags:
+  - 2019 - life  - weeklyReports - blabber
+comments: true
 ---
 Have to make it clear to myself that this is going to be super small.
 

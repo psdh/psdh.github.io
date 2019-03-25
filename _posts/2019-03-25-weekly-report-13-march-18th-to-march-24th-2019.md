@@ -32,6 +32,8 @@ Summary!
     * Jim rohn is so funny and inspiring at the same time. #RIP
 
 More blabbering!
+
+```
 Meta:
 I cry
 I cry a lot
@@ -39,7 +41,7 @@ I criticize myself
 With this report, I give myself another opportunity to cry, about what I didn't do, what I couldn't get, what I'm bad 
 Having said that, I need this (atleast some of it) and have to modify this report to help me more and to bring out things that I did well
 /Meta
-
+```
 ## What didn't go well?
 * Workouts
 	* Currently working without a set goal in mind. Was going to run a HM on the 30th, but cancelled that since my friend was visiting.

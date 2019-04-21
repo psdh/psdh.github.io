@@ -15,4 +15,5 @@ paper link: http://hiperc.buffalostate.edu/courses/ACM612-F15/uploads/ACM612/Van
     ** It should be supported only if expressive power is required, since this could be used to simulate real world scenarios
     ** concurrent programming is much simpler with declarative concurrent paradigms where all programs are deterministic
 * **Named State**
-	** 
+	** Didn't really understand this bit
+    

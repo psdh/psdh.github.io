@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Weekly Reports
-subtitle: Every Monday night...
+title: Notes from papers that I am reading
 use-site-title: true
 ---
 
 <div class="posts-list">
-  {% for post in paginator.categories.wreports %}
+  {% for post in paginator.categories.papers %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>

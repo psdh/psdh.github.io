@@ -70,7 +70,3 @@ Kill it!
 
 Sodhi
 #stayhard!
-
-
-    
-    
